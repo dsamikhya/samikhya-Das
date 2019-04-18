@@ -1,2 +1,1 @@
-# samikhya-Das
-BOSCH HACKATHON 
+# bosch
